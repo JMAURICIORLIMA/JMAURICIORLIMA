@@ -6,9 +6,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mauricio.rodriguesdelima@gmail.com)
 
 
-![JMAURICIORLIMA's GitHub stats](https://github-readme-stats.vercel.app/api?username=JMAURICIORLIMA&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMAURICIORLIMA&layout=compact)](https://github.com/JMAURICIORLIMA/github-readme-stats)
-
 ## Tecnologias mais utilizadas
 ## (Most used technologies)
 
