@@ -1,6 +1,6 @@
 <a href="https://github.com/JMAURICIORLIMA"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567"/></a>
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BB501D&center=true&vCenter=true&multiline=true&random=false&width=435&height=60&lines=Bem+vindo(a)+ao+meu+perfil...%F0%9F%91%8B;Eu+sou+José Maurício!+%F0%9F%A4%93" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BB501D&center=true&vCenter=true&multiline=true&random=false&width=435&height=60&lines=Bem+vindo(a)+ao+meu+perfil...%F0%9F%91%8B;Eu+sou+José+Maurício!+%F0%9F%A4%93" alt="Typing SVG" /></a>
 </div>
 <br>
 <p align="center">
