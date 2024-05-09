@@ -58,6 +58,7 @@ email: mauricio.rodriguesdelima@gmail.com ou jmauriciordelima@gmail.com
 
 ## 📈 Conquistas
 
+- AWS Cloud Practitioner - (Escola da Nuvem - 05/2024).
 - HTML e CSS ambientes de desenvolvimento, estrutura de arquivos e tags – (Alura – 02/2024).
 - HTML e CSS cabeçalho, footer e variáveis CSS – (Alura – 02/2024).
 - HTML e CSS Classes, posicionamento e Flexbox – (Alura – 02/2024).
